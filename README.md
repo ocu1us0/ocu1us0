@@ -1,7 +1,6 @@
-[![Header](banner.gif)](https://www.google.com)
 ## Python-developer
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=IT-Personality&style=flat-square&color=0fffcf" alt=""/></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=ocu1us0&style=flat-square&color=0fffcf" alt=""/></div>
 
 - 🔭 I’m currently working on OSINT bot
 - 🌱 I’m currently learning JavaScript
